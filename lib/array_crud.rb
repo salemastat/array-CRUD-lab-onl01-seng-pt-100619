@@ -26,8 +26,8 @@ def remove_element_from_start_of_array(array)	 remove_element_from_start_of_arra
 end	
 
 
-def retreive_element_from_index(array, index_number)	 retreive_element_from_index(array, index_number)
-  array[index_number]
+def retreive_element_from_index(array, index_number)	 
+  
 end	
 
 
