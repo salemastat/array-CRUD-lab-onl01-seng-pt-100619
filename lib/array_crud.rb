@@ -6,7 +6,7 @@ def create_an_array
 array = ["a", "b", "c", "d"]
 end
 
-def create_an_array
+def add_element_to_end_of_array
 array = ["a", "b", "c", "d"]
 array << "e"
 end
